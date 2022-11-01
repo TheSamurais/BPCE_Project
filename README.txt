@@ -1,0 +1,2 @@
+This project contains two EditorModules that do the same but one is implemented in a way to allow it to work with any project(like pugin), 
+and second is a simplified version used in Samurais post about BlueprintCompilerExtension.
